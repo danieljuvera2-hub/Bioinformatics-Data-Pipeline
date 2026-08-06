@@ -1,0 +1,4 @@
+Patient_ID,Sequence_Length,GC_Content
+PT-001_BRCA1,51,37.25
+PT-002_TP53,51,60.78
+PT-003_EGFR,51,78.43

@@ -1,0 +1,10 @@
+from Bio.Seq import Seq
+print("--- INITIATING BIOPYTHON ENGINE ---")
+patient_dna = Seq("ATGCGTACGTTAG")
+print("Raw DNA Sequence:  " + str(patient_dna))
+messenger_rna = patient_dna.transcribe()
+print("Transcribed mRNA: " + str(messenger_rna))
+rev_comp = patient_dna.reverse_complement()
+print("Reverse Complement: " + str(rev_comp))
+protein = patient_dna.translate()
+print("Synthesized Protein: " + str(protein))
