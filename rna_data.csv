@@ -1,0 +1,11 @@
+Gene_ID,Tissue_Type,Expression_Level,P_Value
+BRCA1,Breast,154.2,0.01
+TP53,Lung,98.7,0.04
+egfr,Lung,-25.4,0.02
+MYC,Breast,,0.05
+PTEN,Liver,42.1,0.001
+brca1,Liver,12.3,0.8
+TP53,Breast,105.0,
+EGFR,Liver,,0.03
+myc,Lung,88.2,0.01
+PTEN,Breast,-5.0,0.04

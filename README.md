@@ -12,4 +12,4 @@ This repository contains an automated, end-to-end data engineering pipeline for 
 1. **Data Ingestion:** Imports and sanitizes clinical administrative data.
 2. **Biological Processing:** Parses `.fasta` files and calculates GC content using Biopython.
 3. **Synthesis:** Fuses the genomic metrics with demographic data into a unified Pandas DataFrame.
-4. **Export:** Generates a structured `.csv` report ready for clinical review.
+4. **Export:** Generates a structured `.csv` report ready for clinical review.git add .
